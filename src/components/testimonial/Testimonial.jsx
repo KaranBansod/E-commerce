@@ -13,7 +13,7 @@ function Testimonial() {
                     <div className="flex flex-wrap -m-4">
                         <div className="lg:w-1/3 lg:mb-0 mb-6 p-4">
                             <div className="h-full text-center">
-                                <img alt="testimonial" className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100" src="https://static.vecteezy.com/system/resources/thumbnails/041/714/266/small_2x/ai-generated-professional-man-in-suit-with-arms-crossed-on-transparent-background-stock-png.png" />
+                                <img alt="testimonial" className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLzN9e04YOnmLl8jQf06trp40xZmVAsl2jCg&s" />
                                 <p style={{ color: mode === 'dark' ? 'white' : '' }} className="leading-relaxed">On a misty autumn morning, the sky was painted in soft shades of gray, blending with the golden and crimson leaves that clung stubbornly to the trees. The air was crisp, carrying the scent of wet earth and the distant hint of wood smoke.</p>
                                 <span className="inline-block h-1 w-10 rounded bg-pink-500 mt-6 mb-4" />
                                 <h2 style={{ color: mode === 'dark' ? '#ff4162' : '' }} className="text-gray-900 font-medium title-font tracking-wider text-sm uppercase">Alex</h2>
